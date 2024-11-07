@@ -17,7 +17,7 @@ def build(app):
 
 
 def main():
-    return toga.App("First App", "ai.supallama", startup=build)
+    return toga.App("First App", "ai.supallama.studio", startup=build)
 
 
 if __name__ == "__main__":
