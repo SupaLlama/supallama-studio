@@ -1,0 +1,6 @@
+fonttools==4.54.1
+rubicon-objc==0.4.9
+toga==0.4.8
+toga-cocoa==0.4.8
+toga-core==0.4.8
+travertino==0.3.0
